@@ -6,10 +6,17 @@ h1  {
   color: #000;
 }
 
+p {
+color: #000;
+}
+
 div#test01 {
   color: #00a;
 }
 
 .important {
   color: #a00;
+}
+ol  {
+color: aqua;
 }
